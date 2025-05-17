@@ -1,0 +1,81 @@
+[ {
+  "id" : 1,
+  "name" : "Ivan Petrov",
+  "position" : "Weapons Specialist",
+  "department" : "Sales",
+  "salary" : 85000.5,
+  "hire_date" : "15.05.2020",
+  "is_active" : true
+}, {
+  "id" : 2,
+  "name" : "Elena Sidorova",
+  "position" : "Logistics Manager",
+  "department" : "Warehouse",
+  "salary" : 92000.75,
+  "hire_date" : "03.11.2019",
+  "is_active" : true
+}, {
+  "id" : 3,
+  "name" : "Alexey Smirnov",
+  "position" : "Accountant",
+  "department" : "Finance",
+  "salary" : 78000.0,
+  "hire_date" : "28.02.2021",
+  "is_active" : true
+}, {
+  "id" : 4,
+  "name" : "Dmitry Volkov",
+  "position" : "Quality Control",
+  "department" : "Production",
+  "salary" : 81000.25,
+  "hire_date" : "10.01.2022",
+  "is_active" : true
+}, {
+  "id" : 5,
+  "name" : "Anna Kuznetsova",
+  "position" : "Security Officer",
+  "department" : "Security",
+  "salary" : 95000.0,
+  "hire_date" : "22.07.2018",
+  "is_active" : true
+}, {
+  "id" : 6,
+  "name" : "Maxim Orlov",
+  "position" : "IT Specialist",
+  "department" : "IT",
+  "salary" : 88000.5,
+  "hire_date" : "14.09.2020",
+  "is_active" : true
+}, {
+  "id" : 7,
+  "name" : "Olga Belyaeva",
+  "position" : "HR Manager",
+  "department" : "HR",
+  "salary" : 87000.75,
+  "hire_date" : "05.04.2021",
+  "is_active" : true
+}, {
+  "id" : 8,
+  "name" : "Sergey Gusev",
+  "position" : "Maintenance Technician",
+  "department" : "Facilities",
+  "salary" : 76000.0,
+  "hire_date" : "18.03.2022",
+  "is_active" : true
+}, {
+  "id" : 9,
+  "name" : "Natalia Vorobyeva",
+  "position" : "Sales Representative",
+  "department" : "Sales",
+  "salary" : 83000.25,
+  "hire_date" : "30.08.2019",
+  "is_active" : true
+}, {
+  "id" : 10,
+  "name" : "Pavel Sokolov",
+  "position" : "Warehouse Supervisor",
+  "department" : "Warehouse",
+  "salary" : 89000.0,
+  "hire_date" : "11.12.2020",
+  "is_active" : true
+} ]

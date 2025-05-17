@@ -1,0 +1,271 @@
+[ {
+  "id" : 1,
+  "name" : "Glock 17",
+  "price" : 599,
+  "stock" : 15,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Glock",
+  "quantity" : 7
+}, {
+  "id" : 2,
+  "name" : "AK-47",
+  "price" : 1299,
+  "stock" : 8,
+  "type" : "Rifle",
+  "caliber" : "7.62mm",
+  "manufacturer" : "Kalashnikov",
+  "quantity" : 6
+}, {
+  "id" : 3,
+  "name" : "Remington 870",
+  "price" : 449,
+  "stock" : 12,
+  "type" : "Shotgun",
+  "caliber" : "12 gauge",
+  "manufacturer" : "Remington",
+  "quantity" : 3
+}, {
+  "id" : 4,
+  "name" : "SIG Sauer P320",
+  "price" : 699,
+  "stock" : 10,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "SIG Sauer",
+  "quantity" : 4
+}, {
+  "id" : 5,
+  "name" : "AR-15",
+  "price" : 999,
+  "stock" : 20,
+  "type" : "Rifle",
+  "caliber" : "5.56mm",
+  "manufacturer" : "Colt",
+  "quantity" : 12
+}, {
+  "id" : 6,
+  "name" : "Smith & Wesson M&P",
+  "price" : 549,
+  "stock" : 18,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Smith & Wesson",
+  "quantity" : 34
+}, {
+  "id" : 7,
+  "name" : "Mossberg 500",
+  "price" : 379,
+  "stock" : 14,
+  "type" : "Shotgun",
+  "caliber" : "12 gauge",
+  "manufacturer" : "Mossberg",
+  "quantity" : 543
+}, {
+  "id" : 8,
+  "name" : "Desert Eagle",
+  "price" : 1299,
+  "stock" : 5,
+  "type" : "Pistol",
+  "caliber" : ".50 AE",
+  "manufacturer" : "Magnum Research",
+  "quantity" : 3
+}, {
+  "id" : 9,
+  "name" : "FN SCAR",
+  "price" : 2999,
+  "stock" : 4,
+  "type" : "Rifle",
+  "caliber" : "7.62mm",
+  "manufacturer" : "FN Herstal",
+  "quantity" : 5
+}, {
+  "id" : 10,
+  "name" : "Benelli M4",
+  "price" : 1899,
+  "stock" : 7,
+  "type" : "Shotgun",
+  "caliber" : "12 gauge",
+  "manufacturer" : "Benelli",
+  "quantity" : 7
+}, {
+  "id" : 11,
+  "name" : "Colt 1911",
+  "price" : 799,
+  "stock" : 9,
+  "type" : "Pistol",
+  "caliber" : ".45 ACP",
+  "manufacturer" : "Colt",
+  "quantity" : 9
+}, {
+  "id" : 12,
+  "name" : "HK MP5",
+  "price" : 2499,
+  "stock" : 6,
+  "type" : "Submachine Gun",
+  "caliber" : "9mm",
+  "manufacturer" : "Heckler & Koch",
+  "quantity" : 0
+}, {
+  "id" : 13,
+  "name" : "Ruger 10/22",
+  "price" : 299,
+  "stock" : 22,
+  "type" : "Rifle",
+  "caliber" : ".22 LR",
+  "manufacturer" : "Ruger",
+  "quantity" : 8
+}, {
+  "id" : 14,
+  "name" : "Beretta 92FS",
+  "price" : 649,
+  "stock" : 11,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Beretta",
+  "quantity" : 6
+}, {
+  "id" : 15,
+  "name" : "Winchester Model 70",
+  "price" : 899,
+  "stock" : 10,
+  "type" : "Rifle",
+  "caliber" : ".308",
+  "manufacturer" : "Winchester",
+  "quantity" : 9
+}, {
+  "id" : 16,
+  "name" : "Taurus Judge",
+  "price" : 499,
+  "stock" : 13,
+  "type" : "Revolver",
+  "caliber" : ".410/.45 LC",
+  "manufacturer" : "Taurus",
+  "quantity" : 0
+}, {
+  "id" : 17,
+  "name" : "Springfield XD",
+  "price" : 529,
+  "stock" : 16,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Springfield Armory",
+  "quantity" : 12
+}, {
+  "id" : 18,
+  "name" : "CZ 75",
+  "price" : 599,
+  "stock" : 12,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "CZ",
+  "quantity" : 34
+}, {
+  "id" : 19,
+  "name" : "Barrett M82",
+  "price" : 8999,
+  "stock" : 2,
+  "type" : "Sniper Rifle",
+  "caliber" : ".50 BMG",
+  "manufacturer" : "Barrett",
+  "quantity" : 5
+}, {
+  "id" : 20,
+  "name" : "Kel-Tec KSG",
+  "price" : 799,
+  "stock" : 9,
+  "type" : "Shotgun",
+  "caliber" : "12 gauge",
+  "manufacturer" : "Kel-Tec",
+  "quantity" : 6
+}, {
+  "id" : 21,
+  "name" : "Walther PPQ",
+  "price" : 579,
+  "stock" : 14,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Walther",
+  "quantity" : 4
+}, {
+  "id" : 22,
+  "name" : "M16A4",
+  "price" : 1499,
+  "stock" : 5,
+  "type" : "Rifle",
+  "caliber" : "5.56mm",
+  "manufacturer" : "Colt",
+  "quantity" : 8
+}, {
+  "id" : 23,
+  "name" : "Mossberg 590A1",
+  "price" : 499,
+  "stock" : 8,
+  "type" : "Shotgun",
+  "caliber" : "12 gauge",
+  "manufacturer" : "Mossberg",
+  "quantity" : 9
+}, {
+  "id" : 24,
+  "name" : "Kimber 1911",
+  "price" : 1099,
+  "stock" : 7,
+  "type" : "Pistol",
+  "caliber" : ".45 ACP",
+  "manufacturer" : "Kimber",
+  "quantity" : 7
+}, {
+  "id" : 25,
+  "name" : "Savage Axis",
+  "price" : 399,
+  "stock" : 15,
+  "type" : "Rifle",
+  "caliber" : ".308",
+  "manufacturer" : "Savage",
+  "quantity" : 64
+}, {
+  "id" : 26,
+  "name" : "Hi-Point C9",
+  "price" : 199,
+  "stock" : 25,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Hi-Point",
+  "quantity" : 3
+}, {
+  "id" : 27,
+  "name" : "PSAK-47",
+  "price" : 899,
+  "stock" : 10,
+  "type" : "Rifle",
+  "caliber" : "7.62mm",
+  "manufacturer" : "Palmetto State Armory",
+  "quantity" : 26
+}, {
+  "id" : 28,
+  "name" : "Canik TP9",
+  "price" : 429,
+  "stock" : 17,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Canik",
+  "quantity" : 89
+}, {
+  "id" : 29,
+  "name" : "Henry Lever Action",
+  "price" : 799,
+  "stock" : 9,
+  "type" : "Rifle",
+  "caliber" : ".45-70",
+  "manufacturer" : "Henry Repeating Arms",
+  "quantity" : 6
+}, {
+  "id" : 30,
+  "name" : "M&P Shield",
+  "price" : 449,
+  "stock" : 20,
+  "type" : "Pistol",
+  "caliber" : "9mm",
+  "manufacturer" : "Smith & Wesson",
+  "quantity" : 8
+} ]

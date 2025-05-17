@@ -1,0 +1,1630 @@
+[ {
+  "id" : 1,
+  "name" : "Main Armory",
+  "location" : "123 Military St, Moscow",
+  "capacity" : 5000,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  }, {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  } ],
+  "manager" : "Ivan Petrov"
+}, {
+  "id" : 2,
+  "name" : "North Storage",
+  "location" : "456 Arsenal Ave, St. Peter",
+  "capacity" : 3500,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ],
+  "manager" : "Elena Sidorova"
+}, {
+  "id" : 3,
+  "name" : "South Depot",
+  "location" : "789 Warehouse Rd, Rostov",
+  "capacity" : 4200,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ],
+  "manager" : "Alexey Smirnov"
+}, {
+  "id" : 4,
+  "name" : "East Facility",
+  "location" : "321 Storage Blvd, Vladivostok",
+  "capacity" : 2800,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  } ],
+  "manager" : "Dmitry Volkov"
+}, {
+  "id" : 5,
+  "name" : "West Warehouse",
+  "location" : "654 Armament Ln, Kaliningrad",
+  "capacity" : 3800,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ],
+  "manager" : "Anna Kuznetsova"
+}, {
+  "id" : 6,
+  "name" : "Central Storage",
+  "location" : "987 Munition Way, Novosibirsk",
+  "capacity" : 4500,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ],
+  "manager" : "Maxim Orlov"
+}, {
+  "id" : 7,
+  "name" : "Reserve Armory",
+  "location" : "147 Backup St, Yekaterinburg",
+  "capacity" : 3200,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  } ],
+  "manager" : "Olga Belyaeva"
+}, {
+  "id" : 8,
+  "name" : "Temporary Storage",
+  "location" : "258 Overflow Ave, Kazan",
+  "capacity" : 2000,
+  "security_level" : "Low",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ],
+  "manager" : "Sergey Gusev"
+}, {
+  "id" : 9,
+  "name" : "Training Facility",
+  "location" : "369 Practice Rd, Sochi",
+  "capacity" : 1800,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ],
+  "manager" : "Natalia Vorobyeva"
+}, {
+  "id" : 10,
+  "name" : "Special Storage",
+  "location" : "741 Restricted Blvd, Sevastopol",
+  "capacity" : 1500,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  } ],
+  "manager" : "Pavel Sokolov"
+}, {
+  "id" : 11,
+  "name" : "Western Depot",
+  "location" : "852 Frontier St, Krasnodar",
+  "capacity" : 2500,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ],
+  "manager" : "Andrey Pavlov"
+}, {
+  "id" : 12,
+  "name" : "Northern Cache",
+  "location" : "963 Arctic Ave, Murmansk",
+  "capacity" : 1900,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ],
+  "manager" : "Tatiana Ivanova"
+}, {
+  "id" : 13,
+  "name" : "Eastern Arsenal",
+  "location" : "159 Pacific Rd, Khabarovsk",
+  "capacity" : 3300,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  } ],
+  "manager" : "Viktor Zaitsev"
+}, {
+  "id" : 14,
+  "name" : "Southern Vault",
+  "location" : "357 Black Sea Blvd, Sochi",
+  "capacity" : 2700,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ],
+  "manager" : "Yulia Semyonova"
+}, {
+  "id" : 15,
+  "name" : "Central Armory",
+  "location" : "456 Capital Ln, Moscow",
+  "capacity" : 4100,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ],
+  "manager" : "Artem Frolov"
+}, {
+  "id" : 16,
+  "name" : "Western Stocks",
+  "location" : "654 Ural Dr, Chelyabinsk",
+  "capacity" : 2900,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  } ],
+  "manager" : "Marina Volkova"
+}, {
+  "id" : 17,
+  "name" : "Eastern Supplies",
+  "location" : "753 Baikal St, Irkutsk",
+  "capacity" : 3100,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ],
+  "manager" : "Denis Popov"
+}, {
+  "id" : 18,
+  "name" : "Northern Reserve",
+  "location" : "852 White Sea Ave, Arkhangelsk",
+  "capacity" : 2200,
+  "security_level" : "Low",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ],
+  "manager" : "Ekaterina Orlova"
+}, {
+  "id" : 19,
+  "name" : "Southern Cache",
+  "location" : "951 Caucasus Rd, Grozny",
+  "capacity" : 3400,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  } ],
+  "manager" : "Grigory Lebedev"
+}, {
+  "id" : 20,
+  "name" : "Central Vault",
+  "location" : "147 Volga Blvd, Nizhny Novgorod",
+  "capacity" : 3600,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ],
+  "manager" : "Larisa Kozlova"
+}, {
+  "id" : 21,
+  "name" : "Western Arsenal",
+  "location" : "258 Don St, Rostov",
+  "capacity" : 2400,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ],
+  "manager" : "Nikolay Sokolov"
+}, {
+  "id" : 22,
+  "name" : "Eastern Depot",
+  "location" : "369 Yenisei Ave, Krasnoyarsk",
+  "capacity" : 3800,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  } ],
+  "manager" : "Vera Petrova"
+}, {
+  "id" : 23,
+  "name" : "Northern Armory",
+  "location" : "471 Lena Rd, Yakutsk",
+  "capacity" : 1600,
+  "security_level" : "Low",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ],
+  "manager" : "Oleg Vinogradov"
+}, {
+  "id" : 24,
+  "name" : "Southern Storage",
+  "location" : "582 Amur Blvd, Blagoveshchensk",
+  "capacity" : 2800,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ],
+  "manager" : "Zoya Kuzmina"
+}, {
+  "id" : 25,
+  "name" : "Central Warehouse",
+  "location" : "693 Ob Ln, Novosibirsk",
+  "capacity" : 4200,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  } ],
+  "manager" : "Leonid Morozov"
+}, {
+  "id" : 26,
+  "name" : "Western Vault",
+  "location" : "704 Neva Dr, St. Petersburg",
+  "capacity" : 3000,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ],
+  "manager" : "Sofia Belyaeva"
+}, {
+  "id" : 27,
+  "name" : "Eastern Cache",
+  "location" : "815 Angara St, Irkutsk",
+  "capacity" : 2300,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ],
+  "manager" : "Vadim Gorbachev"
+}, {
+  "id" : 28,
+  "name" : "Northern Supplies",
+  "location" : "926 Pechora Ave, Syktyvkar",
+  "capacity" : 1900,
+  "security_level" : "Medium",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  } ],
+  "manager" : "Nina Romanova"
+}, {
+  "id" : 29,
+  "name" : "Southern Arsenal",
+  "location" : "137 Kuban Rd, Krasnodar",
+  "capacity" : 3500,
+  "security_level" : "High",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ],
+  "manager" : "Boris Volkov"
+}, {
+  "id" : 30,
+  "name" : "Central Depot",
+  "location" : "248 Moscow Blvd, Moscow",
+  "capacity" : 5000,
+  "security_level" : "Maximum",
+  "is_operational" : false,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ],
+  "manager" : "Alisa Pavlova"
+} ]

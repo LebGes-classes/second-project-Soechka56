@@ -1,0 +1,1339 @@
+[ {
+  "id" : 1,
+  "name" : "Gun World",
+  "location" : "123 Firearm Ave, Texas, USA",
+  "manager" : "John Smith",
+  "phone" : "555-111-2222",
+  "income" : 1500000,
+  "products" : [ {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ]
+}, {
+  "id" : 2,
+  "name" : "Tactical Gear",
+  "location" : "456 Defense St, Florida, USA",
+  "manager" : "Mike Johnson",
+  "phone" : "555-333-4444",
+  "income" : 980000,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  } ]
+}, {
+  "id" : 3,
+  "name" : "Precision Arms",
+  "location" : "789 Rifle Rd, Arizona, USA",
+  "manager" : "Sam Wilson",
+  "phone" : "555-555-6666",
+  "income" : 1200000,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  } ]
+}, {
+  "id" : 4,
+  "name" : "Urban Tactical",
+  "location" : "321 Pistol Blvd, California, USA",
+  "manager" : "Alex Brown",
+  "phone" : "555-777-8888",
+  "income" : 850000,
+  "products" : [ {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  } ]
+}, {
+  "id" : 5,
+  "name" : "Elite Firearms",
+  "location" : "654 Sniper Ln, Nevada, USA",
+  "manager" : "Chris Davis",
+  "phone" : "555-999-0000",
+  "income" : 2000000,
+  "products" : [ {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  }, {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  } ]
+}, {
+  "id" : 6,
+  "name" : "Defense Outpost",
+  "location" : "987 Ammo Dr, Colorado, USA",
+  "manager" : "Pat Miller",
+  "phone" : "555-222-3333",
+  "income" : 750000,
+  "products" : [ {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  }, {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  } ]
+}, {
+  "id" : 7,
+  "name" : "Sharpshooter Supply",
+  "location" : "147 Bullet St, Ohio, USA",
+  "manager" : "Taylor Wilson",
+  "phone" : "555-444-5555",
+  "income" : 1100000,
+  "products" : [ {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  }, {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  } ]
+}, {
+  "id" : 8,
+  "name" : "Lock & Load",
+  "location" : "258 Gunpowder Ave, Utah, USA",
+  "manager" : "Jordan Taylor",
+  "phone" : "555-666-7777",
+  "income" : 950000,
+  "products" : [ {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  }, {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  } ]
+}, {
+  "id" : 9,
+  "name" : "The Armory",
+  "location" : "369 Barrel Rd, Montana, USA",
+  "manager" : "Casey White",
+  "phone" : "555-888-9999",
+  "income" : 1300000,
+  "products" : [ {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  } ]
+}, {
+  "id" : 10,
+  "name" : "Gun Vault",
+  "location" : "741 Scope Blvd, Wyoming, USA",
+  "manager" : "Morgan Black",
+  "phone" : "555-000-1111",
+  "income" : 1800000,
+  "products" : [ {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  } ]
+}, {
+  "id" : 11,
+  "name" : "Firepower Inc",
+  "location" : "852 Trigger Ln, Alaska, USA",
+  "manager" : "Jamie Green",
+  "phone" : "555-121-2121",
+  "income" : 650000,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  } ]
+}, {
+  "id" : 12,
+  "name" : "Steel Defense",
+  "location" : "963 Bolt Dr, Oregon, USA",
+  "manager" : "Riley Gray",
+  "phone" : "555-232-3232",
+  "income" : 1400000,
+  "products" : [ {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  }, {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  } ]
+}, {
+  "id" : 13,
+  "name" : "Fortified Arms",
+  "location" : "159 Stock St, Washington, USA",
+  "manager" : "Drew Blue",
+  "phone" : "555-343-4343",
+  "income" : 1250000,
+  "products" : [ {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  }, {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  } ]
+}, {
+  "id" : 14,
+  "name" : "Secure Firearms",
+  "location" : "357 Sight Ave, Idaho, USA",
+  "manager" : "Jess Yellow",
+  "phone" : "555-454-5454",
+  "income" : 900000,
+  "products" : [ {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  }, {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  } ]
+}, {
+  "id" : 15,
+  "name" : "Precision Tactical",
+  "location" : "456 Barrel Rd, Dakota, USA",
+  "manager" : "Sky Orange",
+  "phone" : "555-565-6565",
+  "income" : 1600000,
+  "products" : [ {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ]
+}, {
+  "id" : 16,
+  "name" : "Armored Outpost",
+  "location" : "654 Magazine Blvd, Nebraska, USA",
+  "manager" : "Robin Purple",
+  "phone" : "555-676-7676",
+  "income" : 850000,
+  "products" : [ {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  }, {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  } ]
+}, {
+  "id" : 17,
+  "name" : "The Gun Shop",
+  "location" : "753 Chamber St, Kansas, USA",
+  "manager" : "Dana Pink",
+  "phone" : "555-787-8787",
+  "income" : 1100000,
+  "products" : [ {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  }, {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  }, {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  } ]
+}, {
+  "id" : 18,
+  "name" : "Defense Hub",
+  "location" : "852 Hammer Ave, Missouri, USA",
+  "manager" : "Lee Silver",
+  "phone" : "555-898-9898",
+  "income" : 950000,
+  "products" : [ {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  }, {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  } ]
+}, {
+  "id" : 19,
+  "name" : "Weapons Depot",
+  "location" : "951 Firing Ln, Iowa, USA",
+  "manager" : "Kim Gold",
+  "phone" : "555-010-1010",
+  "income" : 1750000,
+  "products" : [ {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  }, {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  }, {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  } ]
+}, {
+  "id" : 20,
+  "name" : "Tactical Outfitters",
+  "location" : "147 Crosshair Dr, Arkansas, USA",
+  "manager" : "Terry Bronze",
+  "phone" : "555-111-1212",
+  "income" : 800000,
+  "products" : [ {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  }, {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  } ]
+}, {
+  "id" : 21,
+  "name" : "Secure Armory",
+  "location" : "258 Iron St, Oklahoma, USA",
+  "manager" : "Charlie Steel",
+  "phone" : "555-222-2323",
+  "income" : 1450000,
+  "products" : [ {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  }, {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  } ]
+}, {
+  "id" : 22,
+  "name" : "Precision Firearms",
+  "location" : "369 Copper Ave, Louisiana, USA",
+  "manager" : "Frank Iron",
+  "phone" : "555-333-3434",
+  "income" : 1050000,
+  "products" : [ {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  }, {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  }, {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  } ]
+}, {
+  "id" : 23,
+  "name" : "The Bullet Barn",
+  "location" : "471 Brass Rd, Mississippi, USA",
+  "manager" : "Leslie Nickel",
+  "phone" : "555-444-4545",
+  "income" : 1250000,
+  "products" : [ {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  }, {
+    "id" : 11,
+    "name" : "Colt 1911",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Colt",
+    "quantity" : 9
+  }, {
+    "id" : 13,
+    "name" : "Ruger 10/22",
+    "price" : 299,
+    "stock" : 22,
+    "type" : "Rifle",
+    "caliber" : ".22 LR",
+    "manufacturer" : "Ruger",
+    "quantity" : 8
+  } ]
+}, {
+  "id" : 24,
+  "name" : "Arsenal Plus",
+  "location" : "582 Lead Blvd, Alabama, USA",
+  "manager" : "Pat Zinc",
+  "phone" : "555-555-5656",
+  "income" : 950000,
+  "products" : [ {
+    "id" : 15,
+    "name" : "Winchester Model 70",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Winchester",
+    "quantity" : 9
+  }, {
+    "id" : 17,
+    "name" : "Springfield XD",
+    "price" : 529,
+    "stock" : 16,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Springfield Armory",
+    "quantity" : 12
+  }, {
+    "id" : 19,
+    "name" : "Barrett M82",
+    "price" : 8999,
+    "stock" : 2,
+    "type" : "Sniper Rifle",
+    "caliber" : ".50 BMG",
+    "manufacturer" : "Barrett",
+    "quantity" : 5
+  }, {
+    "id" : 21,
+    "name" : "Walther PPQ",
+    "price" : 579,
+    "stock" : 14,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Walther",
+    "quantity" : 4
+  } ]
+}, {
+  "id" : 25,
+  "name" : "Fortress Arms",
+  "location" : "693 Steel Ln, Georgia, USA",
+  "manager" : "Drew Platinum",
+  "phone" : "555-666-6767",
+  "income" : 1850000,
+  "products" : [ {
+    "id" : 23,
+    "name" : "Mossberg 590A1",
+    "price" : 499,
+    "stock" : 8,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 9
+  }, {
+    "id" : 25,
+    "name" : "Savage Axis",
+    "price" : 399,
+    "stock" : 15,
+    "type" : "Rifle",
+    "caliber" : ".308",
+    "manufacturer" : "Savage",
+    "quantity" : 64
+  }, {
+    "id" : 27,
+    "name" : "PSAK-47",
+    "price" : 899,
+    "stock" : 10,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Palmetto State Armory",
+    "quantity" : 26
+  }, {
+    "id" : 29,
+    "name" : "Henry Lever Action",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Rifle",
+    "caliber" : ".45-70",
+    "manufacturer" : "Henry Repeating Arms",
+    "quantity" : 6
+  } ]
+}, {
+  "id" : 26,
+  "name" : "Gun Gallery",
+  "location" : "704 Titanium Dr, Carolina, USA",
+  "manager" : "Jess Titanium",
+  "phone" : "555-777-7878",
+  "income" : 750000,
+  "products" : [ {
+    "id" : 2,
+    "name" : "AK-47",
+    "price" : 1299,
+    "stock" : 8,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "Kalashnikov",
+    "quantity" : 6
+  }, {
+    "id" : 4,
+    "name" : "SIG Sauer P320",
+    "price" : 699,
+    "stock" : 10,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "SIG Sauer",
+    "quantity" : 4
+  }, {
+    "id" : 6,
+    "name" : "Smith & Wesson M&P",
+    "price" : 549,
+    "stock" : 18,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 34
+  }, {
+    "id" : 8,
+    "name" : "Desert Eagle",
+    "price" : 1299,
+    "stock" : 5,
+    "type" : "Pistol",
+    "caliber" : ".50 AE",
+    "manufacturer" : "Magnum Research",
+    "quantity" : 3
+  } ]
+}, {
+  "id" : 27,
+  "name" : "Defense Arsenal",
+  "location" : "815 Tungsten St, Virginia, USA",
+  "manager" : "Sky Cobalt",
+  "phone" : "555-888-8989",
+  "income" : 1600000,
+  "products" : [ {
+    "id" : 10,
+    "name" : "Benelli M4",
+    "price" : 1899,
+    "stock" : 7,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Benelli",
+    "quantity" : 7
+  }, {
+    "id" : 12,
+    "name" : "HK MP5",
+    "price" : 2499,
+    "stock" : 6,
+    "type" : "Submachine Gun",
+    "caliber" : "9mm",
+    "manufacturer" : "Heckler & Koch",
+    "quantity" : 0
+  }, {
+    "id" : 14,
+    "name" : "Beretta 92FS",
+    "price" : 649,
+    "stock" : 11,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Beretta",
+    "quantity" : 6
+  }, {
+    "id" : 16,
+    "name" : "Taurus Judge",
+    "price" : 499,
+    "stock" : 13,
+    "type" : "Revolver",
+    "caliber" : ".410/.45 LC",
+    "manufacturer" : "Taurus",
+    "quantity" : 0
+  } ]
+}, {
+  "id" : 28,
+  "name" : "Weapons World",
+  "location" : "926 Chromium Ave, Maryland, USA",
+  "manager" : "Robin Chrome",
+  "phone" : "555-999-9090",
+  "income" : 1150000,
+  "products" : [ {
+    "id" : 18,
+    "name" : "CZ 75",
+    "price" : 599,
+    "stock" : 12,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "CZ",
+    "quantity" : 34
+  }, {
+    "id" : 20,
+    "name" : "Kel-Tec KSG",
+    "price" : 799,
+    "stock" : 9,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Kel-Tec",
+    "quantity" : 6
+  }, {
+    "id" : 22,
+    "name" : "M16A4",
+    "price" : 1499,
+    "stock" : 5,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 8
+  }, {
+    "id" : 24,
+    "name" : "Kimber 1911",
+    "price" : 1099,
+    "stock" : 7,
+    "type" : "Pistol",
+    "caliber" : ".45 ACP",
+    "manufacturer" : "Kimber",
+    "quantity" : 7
+  } ]
+}, {
+  "id" : 29,
+  "name" : "Tactical Bunker",
+  "location" : "137 Manganese Rd, Delaware, USA",
+  "manager" : "Dana Manganese",
+  "phone" : "555-000-0101",
+  "income" : 950000,
+  "products" : [ {
+    "id" : 26,
+    "name" : "Hi-Point C9",
+    "price" : 199,
+    "stock" : 25,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Hi-Point",
+    "quantity" : 3
+  }, {
+    "id" : 28,
+    "name" : "Canik TP9",
+    "price" : 429,
+    "stock" : 17,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Canik",
+    "quantity" : 89
+  }, {
+    "id" : 30,
+    "name" : "M&P Shield",
+    "price" : 449,
+    "stock" : 20,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Smith & Wesson",
+    "quantity" : 8
+  }, {
+    "id" : 1,
+    "name" : "Glock 17",
+    "price" : 599,
+    "stock" : 15,
+    "type" : "Pistol",
+    "caliber" : "9mm",
+    "manufacturer" : "Glock",
+    "quantity" : 7
+  } ]
+}, {
+  "id" : 30,
+  "name" : "Secure Depot",
+  "location" : "248 Vanadium Blvd, Jersey, USA",
+  "manager" : "Lee Vanadium",
+  "phone" : "555-111-0202",
+  "income" : 1400000,
+  "products" : [ {
+    "id" : 3,
+    "name" : "Remington 870",
+    "price" : 449,
+    "stock" : 12,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Remington",
+    "quantity" : 3
+  }, {
+    "id" : 5,
+    "name" : "AR-15",
+    "price" : 999,
+    "stock" : 20,
+    "type" : "Rifle",
+    "caliber" : "5.56mm",
+    "manufacturer" : "Colt",
+    "quantity" : 12
+  }, {
+    "id" : 7,
+    "name" : "Mossberg 500",
+    "price" : 379,
+    "stock" : 14,
+    "type" : "Shotgun",
+    "caliber" : "12 gauge",
+    "manufacturer" : "Mossberg",
+    "quantity" : 543
+  }, {
+    "id" : 9,
+    "name" : "FN SCAR",
+    "price" : 2999,
+    "stock" : 4,
+    "type" : "Rifle",
+    "caliber" : "7.62mm",
+    "manufacturer" : "FN Herstal",
+    "quantity" : 5
+  } ]
+} ]
